@@ -1,0 +1,1 @@
+Mini Project code for Zuri Training done on week 7.
